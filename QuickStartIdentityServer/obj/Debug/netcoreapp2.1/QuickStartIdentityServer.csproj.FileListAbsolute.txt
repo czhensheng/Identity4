@@ -1,0 +1,14 @@
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\bin\Debug\netcoreapp2.1\QuickStartIdentityServer.deps.json
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\bin\Debug\netcoreapp2.1\QuickStartIdentityServer.runtimeconfig.json
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\bin\Debug\netcoreapp2.1\QuickStartIdentityServer.runtimeconfig.dev.json
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\bin\Debug\netcoreapp2.1\QuickStartIdentityServer.dll
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\obj\Debug\netcoreapp2.1\QuickStartIdentityServer.csprojAssemblyReference.cache
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\obj\Debug\netcoreapp2.1\QuickStartIdentityServer.csproj.CoreCompileInputs.cache
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\obj\Debug\netcoreapp2.1\QuickStartIdentityServer.RazorAssemblyInfo.cache
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\obj\Debug\netcoreapp2.1\QuickStartIdentityServer.RazorAssemblyInfo.cs
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\obj\Debug\netcoreapp2.1\QuickStartIdentityServer.AssemblyInfoInputs.cache
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\obj\Debug\netcoreapp2.1\QuickStartIdentityServer.AssemblyInfo.cs
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\obj\Debug\netcoreapp2.1\QuickStartIdentityServer.RazorTargetAssemblyInfo.cache
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\bin\Debug\netcoreapp2.1\QuickStartIdentityServer.pdb
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\obj\Debug\netcoreapp2.1\QuickStartIdentityServer.dll
+F:\Person\Project\dotnet\Identity\QuickStartIdentityServer\obj\Debug\netcoreapp2.1\QuickStartIdentityServer.pdb
